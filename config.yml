@@ -1,0 +1,5 @@
+redis:
+  url: "redis://localhost:6379"
+  pool_size: 10
+  max_idle_conn: 10
+  min_idle_conn: 1
